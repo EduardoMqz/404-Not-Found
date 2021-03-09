@@ -64,4 +64,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@EduardoMqz](https://github.com/EduardoMqz})
+- GitHub [@EduardoMqz](https://github.com/EduardoMqz)
