@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/EduardoMqz/404-Not-Found/main/img/1.png)
+![screenshot](https://raw.githubusercontent.com/EduardoMqz/404-Not-Found/main/img/1.png)
 
 
 
